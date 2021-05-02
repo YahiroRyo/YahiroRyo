@@ -6,7 +6,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YahiroRyo" />
   </a>
 </div>
+<div style="display: none;">
   <style>
     .flex { display: flex; }
   </style>
-
+</div>
