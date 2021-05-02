@@ -7,5 +7,17 @@
   </a>
 </div>
 <div class="flex poops">
+  <script>
+    const poops = document.querySelector('.poops');
+    let poopsContains = '';
+    setInterval(() => {
+      poopsContains += 'poop!!';
+      poops.contains = poopsContains;
+    });
+  </script>
   
+  <style>
+    .flex { display: flex; }
+  </style>
 </div>
+
