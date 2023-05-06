@@ -17,7 +17,6 @@
     <li>OOP, DDD, Atomic Design...</li>
     <li>MySQL, PostgresSQL, ...</li>
     <li>Route53, CloudFront, Lambda, S3, EC2, CodeCommit ... </li>
-    <li>Agile, TestAutomation, ...</li>
   </ul>
   
   <h2>:book: 学んでいること</h1>
