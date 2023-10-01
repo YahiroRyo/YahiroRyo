@@ -30,6 +30,6 @@
   <h2>:phone: 連絡先</h1>
   <ul>
     <li>Twitter: https://twitter.com/yappi_chmod_777</li>
-    <li>yappi.jp@gmail.com</li>
+    <li>yahiroryo@email.yappi.jp</li>
   </ul>
 </div>
