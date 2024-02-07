@@ -16,7 +16,7 @@
     <li>PHP, Laravel, OpenAPI, HTML/SCSS, TypeScript, React.js, Remix.js, Bash, SQL, ...</li>
     <li>OOP, DDD, Atomic Design...</li>
     <li>MySQL, PostgresSQL, ...</li>
-    <li>VPS Server, Route53, CloudFront, Lambda, S3, EC2, CodeCommit ... </li>
+    <li>VPS, Route53, CloudFront, Lambda, S3, EC2, CodeCommit ... </li>
   </ul>
   
   <h2>:book: 学んでいること</h1>
